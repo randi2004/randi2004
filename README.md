@@ -25,15 +25,15 @@
 ## 📌 Featured Projects
 
 ### 🧠 Heart Disease Prediction (Machine Learning)
-Developed a Machine Learning model to predict heart disease  
-Used Python with Pandas, NumPy, and Scikit-learn  
-Applied data preprocessing, feature selection, and model evaluation  
-Helps in early detection and decision support  
+- Developed a Machine Learning model to predict heart disease  
+- Used Python with Pandas, NumPy, and Scikit-learn  
+- Applied data preprocessing, feature selection, and model evaluation  
+- Helps in early detection and decision support  
 
 ### 🌐 Advertising Agency Website
-Designed and developed a responsive web application  
-Built using HTML, CSS, JavaScript, and backend technologies      
-Includes services showcase, client interaction, and contact features  
+- Designed and developed a responsive web application  
+- Built using HTML, CSS, JavaScript, and backend technologies      
+- Includes services showcase, client interaction, and contact features  
 
 ### 🎓 EduMonitor - Student Monitoring System
 - Full-stack MERN application with role-based dashboards
